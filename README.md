@@ -3,6 +3,6 @@
 ### Subtitle?
 
 
-*Get good with Git
-*Get good with R
-*Git good with Data analytics
+* Get good with Git
+* Get good with R
+* Git good with Data Analytics
